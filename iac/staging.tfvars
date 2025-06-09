@@ -1,0 +1,7 @@
+db_host = "notes-db.db"
+db_port = "3306"
+db_user = "prgms"
+db_passwd = "prgms"
+db_name = "prgms_notes"
+frontend_url = "http://localhost:30030"
+backend_url = "http://localhost:30031"
